@@ -1,6 +1,12 @@
 # Clean Architecture
 
-Exemplo de uma estrutura utilizando arquitetura limpa para trazer dados para a tela.
+Nesse projeto está sendo implementado:
+
+* Arquitetura Limpa
+* Bloc como gerência de estado
+* Modular para injeção de dependências
+
+### Aplicativo desenvolvido, mostrando os dados buscados na tela:
 
 <p align="center">
   <img src="clean_architecture.png">
